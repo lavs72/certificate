@@ -1,0 +1,41 @@
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+  }
+  .img{
+    width:100px;
+    height:80px;
+
+  }
+  h1 {
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  h2 {
+    margin-top: 0;
+    margin:auto;
+    padding-right:500px;
+    
+  }
+  h3{
+    text-align: center;
+    margin:auto;
+    width:900px;
+    padding:20px;
+}
+.center{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:60px;
+  }
+  b{
+    font-size:20px;
+    padding-left:350px;
+  }
+  p{
+    margin:auto;
+    padding-left:355px;
+    font-size:132%;
+  }
